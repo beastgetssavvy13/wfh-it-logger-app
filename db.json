@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Hard Drive Failed in Station 1144",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-05-16T19:16:27.236Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Kavish",
+      "lastName": "Pandit",
+      "id": 4
+    }
+  ]
+}
