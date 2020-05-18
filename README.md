@@ -1,7 +1,7 @@
 
 ## The Pixelated Coder  :man_technologist:
 
-## Contributor : Kavish Pandit 
+> Contributor : Kavish Pandit 
 
 # Work From Home IT Logger
 :ticket:Logging Changes Required on Modules with Added Technichians.This application is made using Node J| Express js s as a backend.<br>
@@ -56,7 +56,7 @@ Before reporting bugs:
 <br>
 <img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/blob/master/images/1.JPG"/>
 <br>
-<h4>Technicial List:</h4>
+<h4>Technician List:</h4>
 <br>
 <img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/blob/master/images/2.JPG"/>
 <br>
@@ -64,27 +64,23 @@ Before reporting bugs:
 <br>
 <img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/blob/master/images/3.JPG"/>
 <br>
-<h4>Cordova Console:</h4>
+<h4>Logs Updated: </h4>
 <br>
 <img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/blob/master/images/4.JPG"/>
 <br>
-<h4>Cordova Console:</h4>
+<h4>Logs Deleted:</h4>
 <br>
 <img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/blob/master/images/5.JPG"/>
 <br>
-<h4>Cordova Console:</h4>
+<h4>Added new Technician :</h4>
 <br>
 <img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/blob/master/images/6.JPG"/>
 <br>
-<h4>Cordova Console:</h4>
-<br>
-<img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/blob/master/images/7.JPG"/>
-<br>
-<h4>Cordova Console:</h4>
+<h4>Updating Logs:</h4>
 <br>
 <img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/blob/master/images/8.JPG"/>
 <br>
-<h4>Cordova Console:</h4>
+<h4>Logs Updated:</h4>
 <br>
 <img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/blob/master/images/9.JPG"/>
 </br>
