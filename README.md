@@ -9,7 +9,7 @@ This project was bootstrapped and created by Kavish Pandit
 <br>
 <h2>Cordova Console:</h2>
 <br>
-<img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/images/1.png"/>
+<img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/images/1.JPG"/>
 </br>
 <h2>App Interface<br>
 <img src="https://github.com/beastgetssavvy13/phonegap/blob/master/sample%20raw/1.JPG"/>
