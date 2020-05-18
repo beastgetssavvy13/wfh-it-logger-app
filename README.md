@@ -1,5 +1,7 @@
 This project was bootstrapped and created by Kavish Pandit
-# Phonegap
+
+# Work From Home IT Logger
+
 ## Contributor : Kavish Pandit 
 <H1>Apache Cordova, PhoneGap framework is an open source distribution of Cordova .
 <br>
