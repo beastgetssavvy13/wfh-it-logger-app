@@ -16,10 +16,7 @@ React-Redux app to track IT department tasks and issues.
 Uses JSON-Server as a mock backend.
 
 
-## :rocket: Installation
-:beginner: Easy Installation<br>
-
-## Usage
+## :rocket: Installation and Usage
 
 ### `npm install`
 
